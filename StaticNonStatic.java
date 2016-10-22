@@ -26,7 +26,7 @@ class Stuff2 {
     public String name = "I'm a non Static variable";
 }
 
-class Application {
+class StaticNonStatic {
     public static void main(String[] args) {
         Stuff2 myStuff2 = new Stuff2();
         System.out.println(myStuff2.name);
