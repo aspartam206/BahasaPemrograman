@@ -21,13 +21,13 @@
 
 import java.util.Scanner; 
 
-class ifelse{
+class ifElse{
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		//int input = 5;
 		System.out.print("Masukan Sebuah Bilangan \t:");
 		double input = in.nextDouble();
-		else if (input <= 10.0 ) {
+		if (input <= 10.0 ) {
 			System.out.println("Belok Kiri");
 		}
 		else if (input <= 20.0 ) {
