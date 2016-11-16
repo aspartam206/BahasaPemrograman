@@ -12,7 +12,7 @@ public class LinkedListDemo {
          /* Linked List Declaration */
          LinkedList<String> linkedlist = new LinkedList<String>();
 
-         /*add(String Element) is used for adding 
+         /* add(String Element) is used for adding 
           * the elements to the linked list*/
          linkedlist.add("Item1");
          linkedlist.add("Item5");

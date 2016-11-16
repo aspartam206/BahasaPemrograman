@@ -4,5 +4,4 @@ public class BaproA {
     public static void main(String[] args) {
         
     }
-    
 }
